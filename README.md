@@ -46,6 +46,5 @@ This project demonstrates how to deploy and manage a simple application using Ku
    kubectl logs <pod-name>
    ```
 
-## Screenshots
-Add your screenshots in the `screenshots/` folder.
+
 
